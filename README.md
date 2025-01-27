@@ -1,2 +1,21 @@
-# Simple_Calculator
-A clean, user-friendly GUI calculator built with Python and Tkinter. Supports basic arithmetic operations (+, -, *, /) with error handling for invalid inputs. Ideal for showcasing Python GUI development skills.
+# Simple GUI Calculator
+
+
+A lightweight desktop calculator application built with Python and Tkinter. Designed for simplicity and usability.
+
+## Features
+- ➕ Basic arithmetic operations (addition, subtraction, multiplication, division)
+- 🖱️ Intuitive GUI interface
+- 🚫 Error handling for invalid inputs and division by zero
+- 🔄 Clear button to reset calculations
+- 🎨 Clean and modern styling
+
+## Technologies Used
+- **Python 3**
+- **Tkinter** (GUI Toolkit)
+- **PIP** (Package Management)
+
+## Installation & Usage
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/simple-calculator.git
