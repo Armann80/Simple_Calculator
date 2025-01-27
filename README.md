@@ -18,4 +18,4 @@ A lightweight desktop calculator application built with Python and Tkinter. Desi
 ## Installation & Usage
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/simple-calculator.git
+   git clone https://github.com/Armann80/simple_calculator.git
